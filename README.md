@@ -1,6 +1,5 @@
 # Flopt
 
-## Overview
 This library is an overly opinionated custom implementation of a Go gRPC client for [Flipt](https://www.flipt.io/).
 The main feature is the capability to auto-refresh flags from the server and keep a local cache of the flags.
 
