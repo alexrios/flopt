@@ -6,16 +6,6 @@ import (
 	"sync/atomic"
 	"time"
 
-	"go.uber.org/zap"
-)
-ffc
-
-import (
-	"context"
-	"errors"
-	"sync/atomic"
-	"time"
-
 	"github.com/prometheus/client_golang/prometheus"
 	"go.uber.org/zap"
 	"golang.org/x/sync/errgroup"
